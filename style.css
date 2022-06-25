@@ -1,0 +1,39 @@
+body {
+    background-image: url(./img/pexels-stein-egil-liland-3408744.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-size: auto;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+    display: flex;
+    width: 100%;
+    margin-top: 300px;
+    justify-content: center;
+    font-size: 90px;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    margin-top: -50px;
+    font-size: 30px;
+}
+
+a{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
+
+a:hover{
+    color: blue;
+    font-size: 32px;
+    transition-duration: 1.0s;
+}
+
